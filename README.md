@@ -24,7 +24,9 @@ Alternatively, command line download instructions for UNIX systems:
 Once you have either Miniconda or Anaconda, you can just run the following commands to setup your environment:
 
     $ conda env create
-    $ source activate pizza #For Windows use: `activate pizza`
+    $ source activate pizza
+
+*Note: Windows users should run `activate pizza` instead.*
 
 ## Running the notebooks
 
