@@ -6,10 +6,10 @@
 
 If you don't have Anaconda or Miniconda installed in your laptop, you can download them from here:
 
-    - [Miniconda](http://conda.pydata.org/miniconda.html): Python distribution with conda package manager.
-      [Recommended]
-    - [Anaconda](http://continuum.io/downloads): Free enterprise-ready Python distribution with 270+ data and
-      scientific packages.
+- [Miniconda](http://conda.pydata.org/miniconda.html): Python distribution with conda package manager.
+  [Recommended]
+- [Anaconda](http://continuum.io/downloads): Free enterprise-ready Python distribution with 270+ data and
+  scientific packages.
 
 For step-by-step instructions, visit [Anaconda Install](http://docs.continuum.io/anaconda/install.html)
 
