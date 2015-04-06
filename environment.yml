@@ -1,0 +1,7 @@
+name: pizza
+dependencies:
+  - python=3
+  - nltk=3.0.2
+  - pyyaml=3.11
+  - ipython
+  - ipython-notebook
