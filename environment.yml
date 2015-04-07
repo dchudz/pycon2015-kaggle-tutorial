@@ -16,6 +16,7 @@ dependencies:
 - numpy=1.9.2=py34_0
 - openssl=1.0.1k=1
 - pandas=0.16.0=np19py34_1
+- patsy=0.3.0=np19py34_0
 - pip=6.0.8=py34_0
 - ptyprocess=0.4=py34_0
 - pygments=2.0.2=py34_0
@@ -29,9 +30,11 @@ dependencies:
 - readline=6.2=2
 - scikit-learn=0.16.0=np19py34_0
 - scipy=0.15.1=np19py34_0
+- seaborn=0.5.1=np19py34_0
 - setuptools=15.0=py34_0
 - six=1.9.0=py34_0
 - sqlite=3.8.4.1=1
+- statsmodels=0.6.1=np19py34_0
 - terminado=0.5=py34_0
 - tk=8.5.18=0
 - tornado=4.1=py34_0
@@ -39,3 +42,4 @@ dependencies:
 - yaml=0.1.4=1
 - zeromq=4.0.4=0
 - zlib=1.2.8=0
+

@@ -2,6 +2,12 @@
 
 # Instructions
 
+If possible, try to check back Wednesday night for any minor updates to the data set or `environment.yml`. I'll add a note here if anything is updated.
+
+## Download dataset
+
+The tutorial will be based on the data [here](https://inclass.kaggle.com/c/pycon-2015-tutorial/data). 
+
 ## Download Anaconda or Miniconda
 
 If you don't have Anaconda or Miniconda installed in your laptop, you can download them from here:
@@ -24,10 +30,15 @@ Alternatively, command line download instructions for UNIX systems:
 Once you have either Miniconda or Anaconda, you can just run the following commands to setup your environment:
 
     $ conda env create
-    $ source activate pizza
+    $ source activate kaggletutorial
 
-*Note: Windows users should run `activate pizza` instead.*
+*Note: Windows users should run `activate kaggletutorial` instead.*
 
 ## Running the notebooks
 
     $ ipython-notebook
+
+
+## Add more libraries
+
+The tutorial will include lots of time for working on your own and in groups, so feel free to add any additional tools (e.g. for machine learning, text processing, data visualizaton, and data manipulation) you like to your environment.
