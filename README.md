@@ -1,6 +1,6 @@
-
-
 # Instructions
+
+These are instructions for recommended preparation for students in the PyCon 2015 Kaggle Tutorial.
 
 If possible, try to check back Wednesday night for any minor updates to the data set or `environment.yml`. I'll add a note here if anything is updated.
 
