@@ -24,10 +24,14 @@ Alternatively, command line download instructions for UNIX systems:
     $ wget http://bit.ly/miniconda
     $ bash miniconda
 
+## Get the `environment.yml`
+
+The the `environment.yml` file in this repository (by downloading it, pulling the repository with `git pull https://github.com/dchudz/pycon2015-kaggle-tutorial.git`, or even forking and then pulling your own copy).
+
 
 ## Setup your environment
 
-Once you have either Miniconda or Anaconda, you can just run the following commands to setup your environment:
+Once you have either Miniconda or Anaconda, you can just run the following commands to setup your environment (from inside the directory with `environment.yml`):
 
     $ conda env create
     $ source activate kaggletutorial
@@ -36,7 +40,7 @@ Once you have either Miniconda or Anaconda, you can just run the following comma
 
 ## Running the notebooks
 
-    $ ipython-notebook
+    $ ipython notebook
 
 
 ## Add more libraries
