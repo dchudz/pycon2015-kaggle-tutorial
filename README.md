@@ -26,7 +26,7 @@ Alternatively, command line download instructions for UNIX systems:
 
 ## Get the `environment.yml`
 
-The the `environment.yml` file in this repository (by downloading it, pulling the repository with `git pull https://github.com/dchudz/pycon2015-kaggle-tutorial.git`, or even forking and then pulling your own copy).
+The the `environment.yml` file in this repository (by downloading it, pulling the repository with `git clone https://github.com/dchudz/pycon2015-kaggle-tutorial.git`, or even forking and then pulling your own copy).
 
 
 ## Setup your environment
