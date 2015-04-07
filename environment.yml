@@ -1,7 +1,41 @@
-name: pizza
+name: kaggletutorial
 dependencies:
-  - python=3
-  - nltk=3.0.2
-  - pyyaml=3.11
-  - ipython
-  - ipython-notebook
+- python=3
+- freetype=2.5.2=0
+- ipython=3.1.0=py34_0
+- ipython-notebook=3.1.0=py34_1
+- jinja2=2.7.3=py34_1
+- jsonschema=2.4.0=py34_0
+- libpng=1.5.13=1
+- libsodium=0.4.5=0
+- markupsafe=0.23=py34_0
+- matplotlib=1.4.3=np19py34_1
+- mistune=0.5.1=py34_0
+- nltk=3.0.2=np19py34_0
+- nose=1.3.4=py34_1
+- numpy=1.9.2=py34_0
+- openssl=1.0.1k=1
+- pandas=0.16.0=np19py34_1
+- pip=6.0.8=py34_0
+- ptyprocess=0.4=py34_0
+- pygments=2.0.2=py34_0
+- pyparsing=2.0.3=py34_0
+- python=3.4.3=0
+- python-dateutil=2.4.2=py34_0
+- python.app=1.2=py34_3
+- pytz=2015.2=py34_0
+- pyyaml=3.11=py34_0
+- pyzmq=14.5.0=py34_0
+- readline=6.2=2
+- scikit-learn=0.16.0=np19py34_0
+- scipy=0.15.1=np19py34_0
+- setuptools=15.0=py34_0
+- six=1.9.0=py34_0
+- sqlite=3.8.4.1=1
+- terminado=0.5=py34_0
+- tk=8.5.18=0
+- tornado=4.1=py34_0
+- xz=5.0.5=0
+- yaml=0.1.4=1
+- zeromq=4.0.4=0
+- zlib=1.2.8=0
