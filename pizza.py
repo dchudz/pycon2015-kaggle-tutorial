@@ -3,8 +3,8 @@ from dateutil.parser import parse
 import json
 
 def get_df_from_raw(path):
-	with open('raw/train.json', 'r') as f:
-		train_json = json.load(f)
-	train_df = pd.DataFrame(train_json)
-	train_df[["unix_timestamp_of_request", "unix_timestamp_of_request_utc"]] = train_df[["unix_timestamp_of_request", "unix_timestamp_of_request_utc"]].astype('datetime64[s]')
-	return train_df
+	with open(path, 'r') as f:
+		data_json = json.load(f)
+	df = pd.DataFrame(data_json)
+	df[["unix_timestamp_of_request", "unix_timestamp_of_request_utc"]] = df[["unix_timestamp_of_request", "unix_timestamp_of_request_utc"]].astype('datetime64[s]')
+	return df
