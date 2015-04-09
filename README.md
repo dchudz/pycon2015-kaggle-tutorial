@@ -1,3 +1,7 @@
+1. Make sure your environment is set up
+2. Clone this repository
+3. Register for Kaggle, download data from: https://inclass.kaggle.com/c/pycon-2015-tutorial/data - place data in "input" folder in repository.
+
 # Instructions
 
 These are instructions for recommended preparation for students in the PyCon 2015 Kaggle Tutorial.
