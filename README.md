@@ -24,12 +24,24 @@ Alternatively, command line download instructions for UNIX systems:
     $ wget http://bit.ly/miniconda
     $ bash miniconda
 
-## Get the `environment.yml`
+## Simple setup
+
+If you have Anaconda, you are already setup to go.
+
+If you have Miniconda you'll need the following libraries.
+
+    $ conda install numpy pandas scipy matplotlib scikit-learn nltk ipython-notebook seaborn
+
+## Using conda environments
+
+It's useful to have your dependencies in environments. Conda handles environments natively and can help you manage your Data Science projects.
+
+### Get the `environment.yml`
 
 The the `environment.yml` file in this repository (by downloading it, pulling the repository with `git clone https://github.com/dchudz/pycon2015-kaggle-tutorial.git`, or even forking and then pulling your own copy).
 
 
-## Setup your environment
+### Setup your environment
 
 Once you have either Miniconda or Anaconda, you can just run the following commands to setup your environment (from inside the directory with `environment.yml`):
 
