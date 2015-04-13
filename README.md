@@ -1,3 +1,5 @@
+Update: Here's the [winning code](https://github.com/justmarkham/kaggle-pycon-2015) from Kevin.
+
 1. Make sure your environment is set up
 2. Clone this repository
 3. Register for Kaggle, download data from: https://inclass.kaggle.com/c/pycon-2015-tutorial/data - place data in "input" folder in repository.
